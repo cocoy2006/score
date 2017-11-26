@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schools>
+		<school>
+			<id>364</id>
+			<name>西藏大学</name>
+		</school>
+		<school>
+			<id>470</id>
+			<name>西藏民族大学</name>
+		</school>
+		<school>
+			<id>1093</id>
+			<name>西藏藏医学院</name>
+		</school>
+		<school>
+			<id>1916</id>
+			<name>西藏警官高等专科学校</name>
+		</school>
+		<school>
+			<id>1917</id>
+			<name>拉萨师范高等专科学校</name>
+		</school>
+		<school>
+			<id>1918</id>
+			<name>西藏职业技术学院</name>
+		</school>
+</schools>

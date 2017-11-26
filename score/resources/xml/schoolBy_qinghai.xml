@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schools>
+			<school>
+			<id>367</id>
+			<name>青海大学</name>
+		</school>
+		<school>
+			<id>370</id>
+			<name>青海师范大学</name>
+		</school>
+		<school>
+			<id>372</id>
+			<name>青海民族大学</name>
+		</school>
+		<school>
+			<id>1555</id>
+			<name>青海大学昆仑学院</name>
+		</school>
+		<school>
+			<id>1568</id>
+			<name>青海建筑职业技术学院</name>
+		</school>
+		<school>
+			<id>1569</id>
+			<name>青海交通职业技术学院</name>
+		</school>
+		<school>
+			<id>2278</id>
+			<name>青海卫生职业技术学院</name>
+		</school>
+		<school>
+			<id>2279</id>
+			<name>青海警官职业学院</name>
+		</school>
+		<school>
+			<id>2280</id>
+			<name>青海畜牧兽医职业技术学院</name>
+		</school>
+</schools>
